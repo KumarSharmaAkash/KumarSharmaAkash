@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Sharma</h1>
 <h3 align="center">A passionate Softwere developer</h3>
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsharmaakash&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsharmaakash" /> </p>
 
