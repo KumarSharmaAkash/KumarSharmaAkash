@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Sharma</h1>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <h3 align="center">A passionate Softwere developer</h3>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
