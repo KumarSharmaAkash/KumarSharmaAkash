@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Javascript,HTMl,CSS,Redux,C++,C,linux**
 
-- 📫 How to reach me **akash888215@gmail.com**
+- 📫 How to reach me **akkii1478@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
